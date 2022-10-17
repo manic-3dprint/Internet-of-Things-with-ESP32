@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/developing-iot-projects-with-esp32/9781838641160?utm_source=github&utm_medium=repository&utm_campaign=9781838641160"><img src="https://static.packt-cdn.com/products/9781838641160/cover/smaller" alt="Developing IoT Projects with ESP32" height="256px" align="right"></a>
 
-This is the code repository for [Developing IoT Projects with ESP32](https://www.packtpub.com/product/developing-iot-projects-with-esp32/9781838641160?utm_source=github&utm_medium=repository&utm_campaign=9781838641160), published by Packt.
+This is the code repository for [Developing IoT Projects with ESP32](https://bit.ly/3eAvYTN), published by Packt.
 
 **Automate your home or business with inexpensive Wi-Fi devices**
 
@@ -15,8 +15,6 @@ This book covers the following exciting features:
 * Connect to Wi-Fi and Bluetooth for local network communication
 * Connect cloud platforms through different IoT messaging protocols
 * Integrate ESP32 with third-party services such as voice assistants and IFTTT
-
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838641165) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
